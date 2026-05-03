@@ -151,10 +151,7 @@ Digital platform to manage NSS activities with **role-based access** for Admin, 
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats-git-master-grubersjoe.vercel.app/api?username=Keerthanarajch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://streak-stats.demolab.com?user=Keerthanarajch&theme=tokyonight&hide_border=true" width="48%" />
-<br/>
-<img src="https://github-readme-stats-git-master-grubersjoe.vercel.app/api/top-langs/?username=Keerthanarajch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=Keerthanarajch&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
 </div>
