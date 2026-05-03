@@ -17,7 +17,6 @@ class Keerthanaraj:
     location   = "Kannur, Kerala, India 🇮🇳"
     education  = "Integrated M.Sc. Computer Science (AI & ML)"
     university = "Nehru Arts and Science College, Kannur University"
-    cgpa       = 9.16
     email      = "keerthanarajch@gmail.com"
 
     interests  = [
@@ -26,13 +25,10 @@ class Keerthanaraj:
         "Deep Learning 🧬",
         "Generative AI ✨",
         "Web Application Development 🌐",
-        "Data Science 📈",
         "Neural Networks 🕸️"
     ]
 
-    currently  = "Seeking internship / research opportunities 🚀"
-    fun_fact   = "I teach computers to understand sign language! 🤟"
-
+    currently  = "Seeking internship / Fresher Roles/ research opportunities 🚀"
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
 
@@ -50,8 +46,6 @@ me.say_hi()
 |---|---|
 | 🎓 **UGC NET Qualified** – Computer Science (Eligible for Assistant Professor) | Dec 2025 |
 | 🔬 **Qualified for Ph.D. Admission** via UGC NET (CS & Applications) | July 2025 |
-| 🌟 **Best Volunteer Award** – NSS Unit, Nehru Arts and Science College | — |
-
 </div>
 
 ---
@@ -175,8 +169,8 @@ Digital platform to manage NSS activities with **role-based access** for Admin, 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthanarajch@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/___keerthana___raj___)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1i5UDyvRMCLjRtGVaS8RSE7PByPdfKOP_/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthanarajch)
 
 </div>
