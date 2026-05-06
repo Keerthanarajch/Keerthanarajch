@@ -90,6 +90,17 @@ me.say_hi()
 
 <div align="center">
 
+### 🌉 Sign Bridge
+> **AI · Sign Language · Real-Time Communication**
+
+An AI-powered communication bridge that detects sign language gestures in real time and converts them into understandable text and speech for seamless interaction.
+
+**Tech:** `Python` `TensorFlow/Keras` `OpenCV` `MediaPipe` `NumPy` `Streamlit` `gTTS`
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Keerthanarajch/sign-bridge)
+
+---
+
 ### 🤟 Indian Sign Language Gesture Recognition & Speech Conversion
 > **Deep Learning · Computer Vision · Accessibility**
 
@@ -97,7 +108,7 @@ Real-time system that recognizes **Indian Sign Language (ISL)** alphabets & digi
 
 **Tech:** `Python` `TensorFlow/Keras` `MediaPipe` `OpenCV` `NumPy` `Scikit-learn` `gTTS`
 
-[![View Project](https://img.shields.io/badge/🔗_View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Keerthanarajch)
+[![View Project](https://img.shields.io/badge/🔗_View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Keerthanarajch/Indian-sign-language-recognition)
 
 ---
 
@@ -108,7 +119,7 @@ ML models that predict **kilocalories** in food using Ridge Regression and class
 
 **Tech:** `Python` `Streamlit` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Joblib`
 
-[![View Project](https://img.shields.io/badge/🔗_View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Keerthanarajch)
+[![View Project](https://img.shields.io/badge/🔗_View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Keerthanarajch/food-nutrition-predictor)
 
 ---
 
